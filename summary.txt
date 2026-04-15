@@ -1,0 +1,61 @@
+Shelf Analysis Summary
+====================
+Query Image: input/cola.jpg
+Shelf Image: input/retail.jpg
+Threshold: 0.85
+Results:
+- Total products detected: 85
+- Total matches: 6
+- Overall match rate: 7.1%
+
+Row-by-Row Statistics:
+====================
+Row 1:
+  - Total products: 22
+  - Matches: 0
+  - Other products: 22
+  - Match percentage: 0.0%
+
+Row 2:
+  - Total products: 19
+  - Matches: 6
+  - Other products: 13
+  - Match percentage: 31.6%
+  - Matching products: R2C14, R2C15, R2C16, R2C17, R2C18, R2C19
+
+Row 3:
+  - Total products: 23
+  - Matches: 0
+  - Other products: 23
+  - Match percentage: 0.0%
+
+Row 4:
+  - Total products: 4
+  - Matches: 0
+  - Other products: 4
+  - Match percentage: 0.0%
+
+Row 5:
+  - Total products: 5
+  - Matches: 0
+  - Other products: 5
+  - Match percentage: 0.0%
+
+Row 6:
+  - Total products: 1
+  - Matches: 0
+  - Other products: 1
+  - Match percentage: 0.0%
+
+Row 7:
+  - Total products: 6
+  - Matches: 0
+  - Other products: 6
+  - Match percentage: 0.0%
+
+Row 8:
+  - Total products: 5
+  - Matches: 0
+  - Other products: 5
+  - Match percentage: 0.0%
+
